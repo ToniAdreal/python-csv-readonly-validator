@@ -1,0 +1,11 @@
+{
+  "ok": false,
+  "bytes_read": 42,
+  "sha256": "dc5facc7cc69d60f87989a2d1ba13fad8beb93a9a36e316aede370fd95e61510",
+  "records_checked": 3,
+  "errors": [
+    "record 2 (ends at line 3): duplicate id",
+    "record 2 (ends at line 3): amount must be unsigned decimal with at most 2 places",
+    "record 3 (ends at line 4): expected 2 fields, got 3"
+  ]
+}

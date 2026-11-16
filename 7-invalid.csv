@@ -1,0 +1,4 @@
+id,amount
+a1,12.50
+a1,NaN
+a2,1,unexpected

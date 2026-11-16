@@ -1,0 +1,19 @@
+test_bom (test_check_csv.CSVChecks) ... ok
+test_cli_exit_codes_and_no_write (test_check_csv.CSVChecks) ... ok
+test_duplicate (test_check_csv.CSVChecks) ... ok
+test_empty_id (test_check_csv.CSVChecks) ... ok
+test_header_only (test_check_csv.CSVChecks) ... ok
+test_id_whitespace (test_check_csv.CSVChecks) ... ok
+test_invalid_amounts (test_check_csv.CSVChecks) ... ok
+test_invalid_utf8 (test_check_csv.CSVChecks) ... ok
+test_malformed_quote (test_check_csv.CSVChecks) ... ok
+test_quoted_comma_and_multiline (test_check_csv.CSVChecks) ... ok
+test_short_and_long_rows (test_check_csv.CSVChecks) ... ok
+test_size_limit (test_check_csv.CSVChecks) ... ok
+test_valid_crlf (test_check_csv.CSVChecks) ... ok
+test_wrong_header (test_check_csv.CSVChecks) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.070s
+
+OK
